@@ -38,16 +38,9 @@ When inputting, separate the numbers with spaces.
 - Java 8
 - Intellj IDEA
 
-#### How to Start
-
-- You can fork the following github repository as starting point
-- Run `Main.java` file under the `src/main` catalogue of project
-  - If `Guess Number Game, You have 6 chances to guess!` appears, then it means the project initialization is successful
-- Complete unit test on corresponding file under the `src/test` catalogue of project
-
 #### How to Test
 - Implement `./gradlew clean test` under root catalogue and view test result
  
 ## Practice Output && Submit
 - You should implement the test code and push your repo to github repo named **unit-test-comprehensive**.
-- Commit your repostory link to complete this Question.
+- Commit your repository link to complete this Question.
